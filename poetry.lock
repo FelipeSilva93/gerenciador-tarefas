@@ -231,6 +231,7 @@ version = "5.4.3"
 description = "pytest: simple powerful testing with Python"
 category = "dev"
 optional = false
+python-versions = ">=3.5"
 
 [package.dependencies]
 atomicwrites = {version = ">=1.0", markers = "sys_platform == \"win32\""}
@@ -346,7 +347,7 @@ python-versions = "*"
 [metadata]
 lock-version = "1.1"
 python-versions = "3.9.7"
-content-hash = "3574534755e7ab8521aab2d2b1203c3a3458a2928e38e0d8798e066f7c905f72"
+content-hash = "c3ee10e763ef2fef4912c9a000f3a7ff6563febbc7f8cc42455ddc76ff6748ff"
 
 [metadata.files]
 anyio = [
